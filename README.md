@@ -1,1 +1,4 @@
-# text2ceramic
+# Text-to-Ceramic
+AI Generated physical ceramic art
+
+## 
